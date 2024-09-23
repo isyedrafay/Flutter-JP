@@ -12,8 +12,8 @@ void main() {
     print("\n");
   }
   //q2
-  var e = "ukasha123";
-  var p = "123";
+  var e = "syedrafay";
+  var p = "456";
   var attempt = 0;
   var maxatt = 3;
   for (int i = 0; i <= maxatt; i++) {
@@ -63,17 +63,17 @@ void main() {
   //   {
   //     "id": 1,
   //     "email": "xyz@12",
-  //     "pass": "321",
+  //     "pass": "221",
   //   },
   //   {
   //     "id": 3,
-  //     "email": "sr2001",
+  //     "email": "uk123",
   //     "pass": "333",
   //   },
   //   {
   //     "id": 2,
   //     "email": "abcd@12",
-  //     "pass": "222",
+  //     "pass": "321",
   //   }
   // ];
   // for (int i = 0; i <= ent.length; i++) {
